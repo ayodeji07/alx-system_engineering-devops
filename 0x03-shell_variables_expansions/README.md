@@ -1,0 +1,1 @@
+This directory contains scripts of **Shell, init files, variables and expansions** project
